@@ -9,7 +9,7 @@ from importlib import import_module
 import os
 from tools.utils import get_time_dif
 from torch.utils.data import Dataset, DataLoader
-
+明天之内我要看到这句话
 # os.system('nvidia-smi -q -d Memory |grep -A4 GPU|grep Free >tmp')
 # memory_gpu=[int(x.split()[2]) for x in open('tmp','r').readlines()]
 # memory_gpu[0]=0
